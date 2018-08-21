@@ -1,4 +1,4 @@
-import { GET } from '../decorator'
+import { GET } from '../lib'
 window.log = console.log.bind(console);
 
 class Init {

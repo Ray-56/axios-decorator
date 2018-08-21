@@ -1,8 +1,8 @@
 {
   "name": "axios-decorator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "基于decorator二次封装axios",
-  "main": "./decorator/index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --open --config ./build/webpack.dev.conf.js --env.NODE_ENV=development --progress --watch",
